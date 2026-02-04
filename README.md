@@ -79,10 +79,6 @@ If you use this dataset, please cite:
 }
 ```
 
-## License
-
-This dataset is released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You are free to share and adapt the material with appropriate attribution.
-
 ## Links
 
 - **GitHub**: [github.com/joinmassive/moltbook-dataset](https://github.com/joinmassive/moltbook-dataset)
